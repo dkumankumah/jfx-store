@@ -1,0 +1,4 @@
+Fufu met tomatensoep,Casavameel met zetmeel,10.99,false,2020-10-13,2020-10-19,0
+KAI YAD SAI,Omelet gevuld met groenten,16.95,true,2020-10-14,2020-10-19,3
+Noodles Teriyaki,Noodles met teriyaki saus gecombineerd met groenten,14.95,true,2020-10-20,2020-10-22,1
+Carbonara,Pasta + ei + parmezaanse kaas en spekreepjes,8.99,false,2020-10-14,2020-10-19,2
